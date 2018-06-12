@@ -1,0 +1,7 @@
+/home/cneiderer/edX/UCSD_DataScience/Python4DS/Week_02/My1stDir
+total 5472
+-rw-rw-r-- 1 cneiderer cneiderer      64 Jun  3 16:10 fruits_sorted.txt
+-rw-r--r-- 1 cneiderer cneiderer      64 Jun  3 15:48 fruits.txt
+-rw-rw-r-- 1 cneiderer cneiderer      49 Jun  3 16:11 fruits_uniq.txt
+-rw-rw-r-- 1 cneiderer cneiderer      64 Jun  3 16:14 out.txt
+-rw-r--r-- 1 cneiderer cneiderer 5583442 Apr 10  2017 shakespeare.txt
